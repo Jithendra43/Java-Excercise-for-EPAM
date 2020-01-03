@@ -11,7 +11,7 @@ public class prgm7 {
 		for(i=0;i<n;i++) {
 			a[i]=sc.nextInt();
 			}
-		for(i=0;i<n;i++) {5
+		for(i=0;i<n;i++) {
 			for(j=i+1;j<n;j++) {
 				if(a[i]==a[j]) {
 					a[j]=0;
